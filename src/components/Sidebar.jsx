@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '/public/images/profile.jpg';
+import profile from '/public/images/profile.jpeg';
 
 
 function Sidebar() {
