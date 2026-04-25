@@ -1,10 +1,12 @@
 import React from 'react'
+import profile from '/public/images/profile.jpg';
+
 
 function Sidebar() {
   return (
     <aside className="sidebar glass">
         <div className="sidebar__avatar-wrap">
-            <img src="/src/assets/images/profile.jpg" alt="Evanjalin Bherina EH" className="sidebar__avatar" />
+            <img src={profile} alt="Evanjalin Bherina EH" className="sidebar__avatar" />
         </div>
         <div>
             <h1 className="sidebar__name">Evanjalin Bherina EH</h1>

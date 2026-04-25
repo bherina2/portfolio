@@ -9,42 +9,42 @@ function Portfolio() {
       id: 1,
       title: "Nebula Dashboard",
       category: "web",
-      image: "/src/assets/images/p1.jpg",
+      image: "/public/images/p1.jpg",
       type: "Web Design"
     },
     {
       id: 2,
       title: "Pulse Mobile App",
       category: "app",
-      image: "/src/assets/images/p2.jpg",
+      image: "/public/images/p2.jpg",
       type: "App Design"
     },
     {
       id: 3,
       title: "Onyx Brand Identity",
       category: "brand",
-      image: "/src/assets/images/p3.jpg",
+      image: "/public/images/p3.jpg",
       type: "Branding"
     },
     {
       id: 4,
       title: "Aurora E-Commerce",
       category: "web",
-      image: "/src/assets/images/p4.jpg",
+      image: "/public/images/p4.jpg",
       type: "Web Design"
     },
     {
       id: 5,
       title: "Zenith Fitness App",
       category: "app",
-      image: "/src/assets/images/p5.jpg",
+      image: "/public/images/p5.jpg",
       type: "App Design"
     },
     {
       id: 6,
       title: "Vertex Rebrand",
       category: "brand",
-      image: "/src/assets/images/p6.jpg",
+      image: "/public/images/p6.jpg",
       type: "Branding"
     }
   ];
