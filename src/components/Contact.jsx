@@ -54,7 +54,7 @@ function Contact() {
             </div>
             <div>
               <p className="contact-info-card__label">Location</p>
-              <p className="contact-info-card__value">San Francisco, CA</p>
+              <p className="contact-info-card__value">Marthandam, TN</p>
             </div>
           </div>
 
@@ -72,7 +72,7 @@ function Contact() {
             </div>
             <div>
               <p className="contact-info-card__label">Phone</p>
-              <p className="contact-info-card__value">+1 (415) 555-0132</p>
+              <p className="contact-info-card__value">+91 9025933194</p>
             </div>
           </div>
 
@@ -86,7 +86,7 @@ function Contact() {
             </div>
             <div>
               <p className="contact-info-card__label">Email</p>
-              <p className="contact-info-card__value">hello@kaelenvoss.com</p>
+              <p className="contact-info-card__value">evanjalin.eh@gmail.com</p>
             </div>
           </div>
         </div>

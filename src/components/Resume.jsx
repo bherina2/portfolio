@@ -10,34 +10,28 @@ function Resume() {
         <div className="timeline">
             <div className="timeline-item">
                 <div className="timeline-dot timeline-dot--active"></div>
-                <span className="timeline-item__period timeline-item__period--active">2022 — Present</span>
-                <h4 className="timeline-item__title">Senior UI Engineer <span className="timeline-item__company">· Nexus Interactive</span>
+                <span className="timeline-item__period timeline-item__period--active">2023 — 2026</span>
+                <h4 className="timeline-item__title">Frontend Developer <span className="timeline-item__company">· Relaxplzz Technologies Pvt Ltd</span>
                 </h4>
                 <p className="timeline-item__desc">Leading the design systems team, building scalable component libraries and establishing visual standards across 12 product lines.</p>
             </div>
             <div className="timeline-item">
                 <div className="timeline-dot timeline-dot--inactive"></div>
-                <span className="timeline-item__period timeline-item__period--inactive">2019 — 2022</span>
-                <h4 className="timeline-item__title">Frontend Developer <span className="timeline-item__company">· Vertex Studios</span>
+                <span className="timeline-item__period timeline-item__period--inactive">2022 — 2023</span>
+                <h4 className="timeline-item__title">Digital Interaction Advisor <span className="timeline-item__company">· 24/7 AI, Bangalore</span>
                 </h4>
                 <p className="timeline-item__desc">Engineered high-performance React applications for enterprise clients, focusing on data visualization and real-time dashboards.</p>
             </div>
-            <div className="timeline-item">
-                <div className="timeline-dot timeline-dot--inactive"></div>
-                <span className="timeline-item__period timeline-item__period--inactive">2017 — 2019</span>
-                <h4 className="timeline-item__title">UI/UX Designer <span className="timeline-item__company">· Prism Agency</span>
-                </h4>
-                <p className="timeline-item__desc">Designed end-to-end digital experiences for startups and Fortune 500 companies, increasing conversion rates by 34%.</p>
-            </div>
+           
         </div>
         <h3 className="resume__sub-heading">Education</h3>
         <div className="timeline">
             <div className="timeline-item">
                 <div className="timeline-dot timeline-dot--inactive"></div>
-                <span className="timeline-item__period timeline-item__period--inactive">2013 — 2017</span>
-                <h4 className="timeline-item__title">B.Sc. Computer Science <span className="timeline-item__company">· Stanford University</span>
+                <span className="timeline-item__period timeline-item__period--inactive">2018 — 2022</span>
+                <h4 className="timeline-item__title">B.E. Electronics and Communications Engineering <span className="timeline-item__company">· Anna University</span>
                 </h4>
-                <p className="timeline-item__desc">Specialized in Human-Computer Interaction and Visual Computing. Dean's List all 8 semesters.</p>
+                <p className="timeline-item__desc">Built a strong foundation in engineering principles, problem-solving, and system design. Developed an interest in software development and user-focused applications.</p>
             </div>
         </div>
         <h3 className="resume__sub-heading">Skills</h3>

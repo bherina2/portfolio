@@ -8,18 +8,17 @@ function About() {
       </h2>
 
       <p className="about__text">
-        I'm a multidisciplinary designer and developer with 8+ years of experience creating digital products. 
-        I believe in the intersection of aesthetics and functionality — where beautiful design meets seamless user experience.
+        I'm a frontend developer with 2+ years of experience building modern web applications. I focus on the intersection of design and development — where intuitive interfaces meet high-performance user experiences.
       </p>
 
       <div className="about__info-grid">
         <div className="about__info-item">
-          <span className="about__info-label">Age</span>
-          <span className="about__info-value">28</span>
+          <span className="about__info-label">Phone</span>
+          <span className="about__info-value">+91 9025933194</span>
         </div>
         <div className="about__info-item">
           <span className="about__info-label">Residence</span>
-          <span className="about__info-value">San Francisco, CA</span>
+          <span className="about__info-value">Marthandam, TN</span>
         </div>
         <div className="about__info-item">
           <span className="about__info-label">Freelance</span>
@@ -27,7 +26,7 @@ function About() {
         </div>
         <div className="about__info-item">
           <span className="about__info-label">Email</span>
-          <span className="about__info-value">hello@kaelenvoss.com</span>
+          <span className="about__info-value">evanjalin.eh@gmail.com</span>
         </div>
       </div>
 
