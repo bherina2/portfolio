@@ -1,5 +1,11 @@
 
 import React, { useState } from 'react';
+import p1 from '/public/images/p1.jpg';
+import p2 from '/public/images/p2.jpg';
+import p3 from '/public/images/p3.jpg';
+import p4 from '/public/images/p4.jpg';
+import p5 from '/public/images/p5.jpg';
+import p6 from '/public/images/p6.jpg';
 
 function Portfolio() {
   const [filter, setFilter] = useState('all');
@@ -9,42 +15,42 @@ function Portfolio() {
       id: 1,
       title: "Nebula Dashboard",
       category: "web",
-      image: "/public/images/p1.jpg",
+      image: p1,
       type: "Web Design"
     },
     {
       id: 2,
       title: "Pulse Mobile App",
       category: "app",
-      image: "/public/images/p2.jpg",
+      image: p2,
       type: "App Design"
     },
     {
       id: 3,
       title: "Onyx Brand Identity",
       category: "brand",
-      image: "/public/images/p3.jpg",
+      image: p3,
       type: "Branding"
     },
     {
       id: 4,
       title: "Aurora E-Commerce",
       category: "web",
-      image: "/public/images/p4.jpg",
+      image: p4,
       type: "Web Design"
     },
     {
       id: 5,
       title: "Zenith Fitness App",
       category: "app",
-      image: "/public/images/p5.jpg",
+      image: p5,
       type: "App Design"
     },
     {
       id: 6,
       title: "Vertex Rebrand",
       category: "brand",
-      image: "/public/images/p6.jpg",
+      image: p6,
       type: "Branding"
     }
   ];
